@@ -1,16 +1,14 @@
-### Hi there 👋
+# Mobile ActionLog
 
-<!--
-**mobileactionlog/mobileactionlog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile ActionLog Android App and SyncServer Release v4
 
-Here are some ideas to get you started:
+## [Release Notes](./RELEASE-NOTES.html)
+## [Installation Instructions](./INSTALL.html)
+## [Administrator Guide](./ADMIN_GUIDE.html)
+## [User Guide](./USER_GUIDE.html)
+## [Upgrade Manual](./UPGRADE.html)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Note:
+
+The sources to this documentation are written in `markdown`.
+`pandoc` is used to create the HTML version of the documentation.
