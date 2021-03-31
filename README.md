@@ -2,11 +2,11 @@
 
 Mobile ActionLog Android App and SyncServer Release v4
 
-## [Release Notes](./RELEASE-NOTES.html)
-## [Installation Instructions](./INSTALL.html)
-## [Administrator Guide](./ADMIN_GUIDE.html)
-## [User Guide](./USER_GUIDE.html)
-## [Upgrade Manual](./UPGRADE.html)
+## [Release Notes](./RELEASE-NOTES.md)
+## [Installation Instructions](./INSTALL.md)
+## [Administrator Guide](./ADMIN_GUIDE.md)
+## [User Guide](./USER_GUIDE.md)
+## [Upgrade Manual](./UPGRADE.md)
 
 ## Note:
 
