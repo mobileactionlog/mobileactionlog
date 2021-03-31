@@ -1,7 +1,5 @@
 # Release-Notes for v4.1.0
 
---- Preliminary release notes ---
-
 ## Mobile ActionLog Android App
 
 * Support for *two* new hardware devices: CAT S52, Samsung Galaxy XCover Pro.
